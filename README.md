@@ -1,4 +1,4 @@
-
+#fivem-disabledispatch
 This Script will remove firetruks appearing when something is burning or explodes.
 
 Have fun!
